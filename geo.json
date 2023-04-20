@@ -1,0 +1,12 @@
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "FFM"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.632337, 50.108898]
+    }
+  }
+]
