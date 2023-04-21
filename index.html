@@ -37,7 +37,18 @@
             }
 
       // initialize Leaflet
-      var map = L.map('map').setView({lon: 8.632337, lat: 50.108898}, 2);
+      var map = L.map('map', {
+          center: {
+            lon: 8.632337,
+            lat: 50.108898
+          },
+          maxZoom: 18,
+          zoom: 2,
+          zoomControl: false,
+          logoControl: false,
+          attributionControl: false,
+        }
+      )
 
 
     var geojsonMarkerOptions = {
@@ -70,7 +81,6 @@
         }
     );
     
-
       // add the OpenStreetMap tiles
       L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
