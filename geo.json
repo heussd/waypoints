@@ -2,11 +2,31 @@
   {
     "type": "Feature",
     "properties": {
-      "name": "FFM"
+      "date": "2023-04-21T18:00:04.101Z"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [8.632337, 50.108898]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date": "2023-04-23T18:34:04.101Z"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.771077, 50.051114]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date": "2023-04-23T18:34:04.101Z"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.240442, 49.819433]
     }
   }
 ]
