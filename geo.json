@@ -42,7 +42,8 @@
     {
         "type": "Feature",
         "properties": {
-            "date": "2023-08-07T18:05:00.000Z"
+            "date": "2023-08-07T18:05:00.000Z",
+            "color": "blue"
         },
         "geometry": {
             "type": "Point",
@@ -52,7 +53,8 @@
     {
         "type": "Feature",
         "properties": {
-            "date": "2023-08-06T20:06:00.000Z"
+            "date": "2023-08-06T20:06:00.000Z",
+            "color": "blue"
         },
         "geometry": {
             "type": "Point",
@@ -62,7 +64,8 @@
     {
         "type": "Feature",
         "properties": {
-            "date": "2023-08-06T13:06:00.000Z"
+            "date": "2023-08-06T13:06:00.000Z",
+            "color": "blue"
         },
         "geometry": {
             "type": "Point",
@@ -72,7 +75,8 @@
     {
         "type": "Feature",
         "properties": {
-            "date": "2023-08-05T20:25:00.000Z"
+            "date": "2023-08-05T20:25:00.000Z",
+            "color": "blue"
         },
         "geometry": {
             "type": "Point",

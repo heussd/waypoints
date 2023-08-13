@@ -70,6 +70,10 @@
             {
               pointToLayer: function (feature, latlng) {
                 console.log(feature);
+
+                if (feature.properties.color) {
+                  geojsonMarkerOptions.fillColor = feature.properties.color;
+                }
                 return L.circleMarker(latlng, geojsonMarkerOptions);
               },
               onEachFeature: onEachFeature
