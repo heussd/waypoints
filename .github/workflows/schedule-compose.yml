@@ -1,0 +1,26 @@
+name: Scheduled KML download
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every 24 hours
+  push:
+    branches:
+      - main
+
+jobs:
+  run-compose:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Run Docker Compose
+        run: docker compose up --build --abort-on-container-exit
+        env:
+          DL_URL: ${{ secrets.DL_URL }}
+      - name: Commit and push changes
+        uses: devops-infra/action-commit-push@master
+        with:
+          github_token: "${{ secrets.GITHUB_TOKEN }}"
+          commit_prefix: "[AUTO]"
+          commit_message: "Automatic commit"
+          branch: "main"
