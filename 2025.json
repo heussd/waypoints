@@ -1,1 +1,114 @@
-[]
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "date": "2024-12-17T07:49:04Z",
+            "color": "red"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                151.20476,
+                -33.871788
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "date": "2024-12-17T07:49:33Z",
+            "color": "red"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                151.20196,
+                -33.863807
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "date": "2024-12-24T00:02:32Z",
+            "color": "red"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                151.214,
+                -33.864628
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "date": "2024-12-24T00:02:54Z",
+            "color": "red"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                151.20996,
+                -33.855934
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "date": "2024-12-31T02:54:25Z",
+            "color": "red"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                151.17944,
+                -33.878953
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "date": "2025-01-02T04:15:32Z",
+            "color": "red"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                151.28798,
+                -33.797194
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "date": "2025-01-02T04:16:38Z",
+            "color": "red"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                151.15508,
+                -34.055071
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "date": "2025-01-02T04:28:43Z",
+            "color": "red"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                151.2038,
+                -33.86465
+            ]
+        }
+    }
+]
