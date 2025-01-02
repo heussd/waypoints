@@ -1,0 +1,10 @@
+services:
+  service:
+    image: llaal
+    build:
+      context: download-and-convert/
+      dockerfile: Dockerfile
+    environment:
+      - DL_URL=${DL_URL}
+    volumes:
+      - ./:/out/
