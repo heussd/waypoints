@@ -114,20 +114,6 @@
     {
         "type": "Feature",
         "properties": {
-            "date": "2025-01-02T21:39:58Z",
-            "color": "red"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                150.82349,
-                -33.425065
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "date": "2025-01-04T04:12:45Z",
             "color": "red"
         },
