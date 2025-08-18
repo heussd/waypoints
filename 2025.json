@@ -4128,5 +4128,19 @@
                 1.2783085
             ]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "date": "2025-08-17T06:18:44Z",
+            "color": "red"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.85292,
+                1.2774772
+            ]
+        }
     }
 ]
