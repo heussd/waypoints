@@ -4492,5 +4492,33 @@
                 -17.55859
             ]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "date": "2025-09-12T01:01:47Z",
+            "color": "red"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                145.70518,
+                -16.790356
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "date": "2025-09-12T01:02:00Z",
+            "color": "red"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                145.70207,
+                -16.78943
+            ]
+        }
     }
 ]
