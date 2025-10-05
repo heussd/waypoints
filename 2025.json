@@ -4604,5 +4604,19 @@
                 -16.851226
             ]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "date": "2025-10-04T04:36:42Z",
+            "color": "red"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                148.23036,
+                -19.98081
+            ]
+        }
     }
 ]
