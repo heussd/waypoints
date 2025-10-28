@@ -5108,5 +5108,47 @@
                 -27.23238
             ]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "date": "2025-10-26T21:58:32Z",
+            "color": "red"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                153.02499,
+                -27.47415
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "date": "2025-10-26T21:59:01Z",
+            "color": "red"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                153.02184,
+                -27.470417
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "date": "2025-10-26T22:02:45Z",
+            "color": "red"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                153.02464,
+                -27.467547
+            ]
+        }
     }
 ]
