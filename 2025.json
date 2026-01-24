@@ -6662,5 +6662,19 @@
                 -35.407831
             ]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "date": "2026-01-23T00:35:40Z",
+            "color": "red"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                138.59625,
+                -34.919551
+            ]
+        }
     }
 ]
