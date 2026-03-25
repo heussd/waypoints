@@ -7810,5 +7810,19 @@
                 -34.589492
             ]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "date": "2026-03-24T00:08:57Z",
+            "color": "red"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                150.879669,
+                -34.479755
+            ]
+        }
     }
 ]
