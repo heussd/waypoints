@@ -8178,14 +8178,56 @@
     {
         "type": "Feature",
         "properties": {
-            "date": "2026-05-13T01:13:42Z",
+            "date": "2026-05-14T14:17:17Z",
             "color": "red"
         },
         "geometry": {
             "type": "Point",
             "coordinates": [
-                9.261645,
-                45.453538
+                103.985182,
+                1.355358
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "date": "2026-05-14T15:20:31Z",
+            "color": "red"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.982942,
+                1.349897
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "date": "2026-05-15T06:47:43Z",
+            "color": "red"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                8.725423,
+                45.629965
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "date": "2026-05-15T12:13:45Z",
+            "color": "red"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                9.156661,
+                45.477949
             ]
         }
     }
