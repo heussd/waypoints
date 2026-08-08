@@ -9098,5 +9098,61 @@
                 -15.502649
             ]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "date": "2026-08-07T03:31:28Z",
+            "color": "red"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                145.111702,
+                -15.2948
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "date": "2026-08-07T03:33:43Z",
+            "color": "red"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                145.005125,
+                -15.300271
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "date": "2026-08-07T03:33:56Z",
+            "color": "red"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                144.844695,
+                -15.290114
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "date": "2026-08-07T06:41:12Z",
+            "color": "red"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                145.263451,
+                -15.477141
+            ]
+        }
     }
 ]
